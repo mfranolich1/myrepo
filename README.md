@@ -1,3 +1,2 @@
 # myrepo
-repository for testing 
-Please God just edit this damn thing lol
+ENV3300 is the best class at Molloy
